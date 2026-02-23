@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bayesianETAS"]
-	path = bayesianETAS
-	url = https://github.com/cran/bayesianETAS
 [submodule "cpm"]
 	path = cpm
 	url = https://github.com/cran/cpm
